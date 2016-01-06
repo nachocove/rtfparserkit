@@ -1144,6 +1144,8 @@ public enum Command
 
    forceupgrade("forceupgrade", CommandType.Flag),
 
+   formatConverter("formatConverter", CommandType.Destination),
+
    formdisp("formdisp", CommandType.Flag),
 
    formfield("formfield", CommandType.Destination),
